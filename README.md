@@ -1,4 +1,4 @@
 # docker-cuda-demo
 
 #### nvidia-smi
-![image](https://user-images.githubusercontent.com/39177230/111907623-2294cc00-8a91-11eb-9dcd-442832103165.png)
+![image](https://user-images.githubusercontent.com/39177230/111907953-545a6280-8a92-11eb-9cbe-855fe194b9de.png)
